@@ -15,7 +15,9 @@ Welcome to my personal daily coding log! I'm using this space to track my progre
 | Day | Date       | Summary of Work |
 |-----|------------|------------------|
 | 1   | 2025-05-27 |Created a landing page in dart language for the hustlesasa mobile app and explored safaricom daraja |
-| 2   |  | |
+| 2   |2025-05-28  |Designed lnding page image and buttons.
+Created beta.dart for new releases alert for clients
+Updated login and registration screens styling|
 | 3   |  |  |
 | ... | ...        | ...              |
 
