@@ -18,7 +18,8 @@ Welcome to my personal daily coding log! I'm using this space to track my progre
 | 2   |2025-05-28  |Designed landing page image and buttons.|
 |||Created "beta.dart" for new releases alert for clients
 |||Updated login and registration screens styling|
-| 3   |  |  |
+| 3   | 2025-05-29 | Updated energy portal analytics page |
+|||Generated billing and tarrif pages designs for energy portal|
 | ... | ...        | ...              |
 
 ---
