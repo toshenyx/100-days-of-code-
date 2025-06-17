@@ -22,6 +22,8 @@ Welcome to my personal daily coding log! I'm using this space to track my progre
 |||Generated billing and tarrif pages designs for energy portal|
 |4| 2025-06-12      |Generated code for the new billing module|
 |5| 2025-06-13|Optimized screens for the billing module|
+|6|2025-06-16|Optimized engineer dashboard screens|
+|7|2025-06-17|Optimized Admin page and added new toggle features and screen adaptability|
 
 ---
 
